@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project is a basic test that simply activates outputs to a 7 segment display based on some pre-defined inputs
+This project is a basic test that simply activates outputs to a 7 segment display based on some pre-defined inputs.
 
 ## How to test
 
