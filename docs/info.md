@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project is a basic test that simply activates outputs to a 7 segment display based on some pre-defined inputs
 
 ## How to test
 
-Explain how to use your project
+Inputs d, e, and f are used to turn on segments in the bottom where as a and b are conencted to a mux dictated by c.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segment display and switches. 
